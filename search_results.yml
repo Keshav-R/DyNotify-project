@@ -27,6 +27,6 @@ products:
             xpath: null
             type: Image
         price:
-            css: 'span.a-price:nth-of-type(1) span.a-offscreen'
+            css: 'span.a-price-whole'
             xpath: null
             type: Text
