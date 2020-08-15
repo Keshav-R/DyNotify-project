@@ -7,4 +7,5 @@ IMP: If 503 error occurs while scraping amazon, please rerun the cell
 
 ->Download the .ipynb and .yml file 
 ->Run the cell
+-> Search Amazon for the product, copy and paste URL in input block
 -> Outputs are dumped in search_results.jsonl
